@@ -1,0 +1,6 @@
+2019-03-10 19:18:48,420 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@cac736f: startup date [Sun Mar 10 19:18:48 CST 2019]; root of context hierarchy
+2019-03-10 19:18:48,502 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-context.xml]
+2019-03-10 19:18:48,728 INFO [com.funtl.hello.spring.MyTest] - info级别的日志
+2019-03-10 19:18:48,728 WARN [com.funtl.hello.spring.MyTest] - warn级别的日志
+2019-03-10 19:18:48,729 ERROR [com.funtl.hello.spring.MyTest] - error级别的日志
+2019-03-10 19:18:48,731 INFO [com.funtl.hello.spring.MyTest] - message is: 测试 测试2
